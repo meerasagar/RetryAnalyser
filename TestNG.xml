@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RetryAnalyzer test suite ">
+
+<listeners>
+
+<listener class-name="retrylogic.MyTransformer"></listener>
+
+</listeners>
+
+<test name="RetryAnalyzer test">
+
+<classes>
+
+<class name="retrytest.RetryTest"></class>
+</classes>
+
+</test>
+
+</suite>
