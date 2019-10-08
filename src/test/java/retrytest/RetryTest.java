@@ -19,7 +19,9 @@ public class RetryTest {
 	{
 		System.out.println("test2");
 		
-		System.out.println("testanalyser");
+		System.out.println("testanalyser1");
+		
+		System.out.println("testanalyser2");
 		
 	}
 
