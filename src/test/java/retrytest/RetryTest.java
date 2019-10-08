@@ -19,6 +19,8 @@ public class RetryTest {
 	{
 		System.out.println("test2");
 		
+		System.out.println("testanalyser");
+		
 	}
 
 }
